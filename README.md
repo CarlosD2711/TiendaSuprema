@@ -1,11 +1,11 @@
-# Tienda FC Barcelona
+# Tienda De accesorios
 
-**Autor:** Douglas Pineda  
-**Carné:** 1890-22-2255  
+**Autor:** Carlos Arriola  
+**Carné:** 1850-22-5962  
 
 ## Descripción
 
-Esta es una tienda online ficticia inspirada en el FC Barcelona. Fue desarrollada usando HTML5, Bootstrap 5.3 y CSS adicional para mejorar la apariencia.
+Esta es una tienda de ventas de accesorios gaming.
 
 ## Componentes utilizados
 
